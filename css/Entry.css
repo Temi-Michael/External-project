@@ -630,7 +630,7 @@ h3 {
 
 input:focus::placeholder {
   color: transparent;
-  transition: 0.6s;
+  transition: 0.5s;
 }
 
 
