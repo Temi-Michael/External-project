@@ -1,0 +1,626 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+/* font-family: 'Oswald', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+
+
+.form-div {
+    /* background-color: yellow; */
+    width: 680px;
+    text-size-adjust: newspaper;
+    margin: auto;
+    overflow: hidden;
+    font-weight: 200px;
+    word-spacing: 2px;
+    
+}
+
+h3 {
+    font-family: "Oswald", Helvetica, Arial, sans-serif;
+    word-spacing: 5px;
+    text-transform: uppercase;
+    font-size: 28px;
+    line-height: 1.45;
+    letter-spacing: 0.06em;
+    border-color: transparent;
+    
+  }
+
+  .line {
+    height: 3px;
+    background: linear-gradient(#c60000 50%, #c60000 120%);
+    display: inline-block;
+    max-width: 100px;
+    width: 100%;
+  }
+
+  .intro {
+    font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-weight: lighter;
+    font-size: 21px;
+    color: #9d9d9f;
+  }
+
+  .first {
+    display: flex;
+  }
+
+  .second {
+    display: flex;
+  }
+
+  .third {
+    display: flex;
+  }
+
+  .fourth {
+    display: flex;
+  }
+
+  .fifth {
+    display: flex;
+  }
+
+  .sixth {
+    display: flex;
+  }
+
+  .seventh {
+    display: flex;
+  }
+
+  .eighth {
+    display: flex;
+  }
+
+  .ninth {
+    display: flex;
+  }
+
+  .tenth {
+    display: flex;
+  }
+
+  .eleventh {
+    display: flex;
+  }
+
+  .first {
+    display: flex;
+  }
+
+  .second {
+    display: flex;
+  }
+
+  .third {
+    display: flex;
+  }
+
+  .fourth {
+    display: flex;
+  }
+
+  .fifth {
+    display: flex;
+  }
+
+  .sixth {
+    display: flex;
+  }
+
+  .seventh {
+    display: flex;
+  }
+
+  .eighth {
+    display: flex;
+  }
+
+  .ninth {
+    display: flex;
+  }
+
+  .tenth {
+    display: flex;
+  }
+
+  .eleventh {
+    display: flex;
+  }
+
+  /* .one {
+    margin-left: 50px;
+  } */
+
+  .two {
+    margin-left: 100px;
+  }
+
+  /* .three {
+    margin-left: 50px;
+  } */
+
+  .four {
+    margin-left: 100px;
+  }
+
+  /* .five {
+    margin-left: 50px;
+  } */
+
+  .six {
+    margin-left: 100px;
+  }
+
+  /* .seven {
+    margin-left: 50px;
+  } */
+
+  .eight {
+    margin-left: 100px;
+  }
+
+  /* .nine {
+    margin-left: 50px;
+  } */
+
+  .ten {
+    margin-left: 100px;
+  }
+
+  /* .eleven {
+    margin-left: 50px;
+  } */
+
+  .twelve {
+    margin-left: 100px;
+  }
+
+  /* .thirteen {
+    margin-left: 50px;
+  } */
+
+  .fourteen {
+    margin-left: 100px;
+  }
+
+  /* .fifteen {
+    margin-left: 50px;
+  } */
+
+  .sixteen {
+    margin-left: 100px;
+  }
+
+  /* .seventeen {
+    margin-left: 50px;
+  } */
+
+  .eighteen {
+    margin-left: 100px;
+  }
+
+  /* .nineteen {
+    margin-left: 50px;
+  } */
+
+  .twenty {
+    margin-left: 100px;
+  }
+
+  /* .twenty-one {
+    margin-left: 50px;
+  } */
+
+  .twenty-two {
+    margin-left: 100px;
+  }
+
+
+  #salutation {
+    font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 18px;
+    display: block;
+    width: 100%;
+    min-height: 30px;
+    padding: 18px 25px;
+    font-weight: medium;
+    line-height: 24px;
+    color: #434343;
+    background-color: #f2f3f9;
+    border: 0px solid #f2f3f9;
+    border-radius: 35px;
+  }
+
+  #employment {
+    font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 18px;
+    display: block;
+    width: 100%;
+    min-height: 30px;
+    padding: 18px 25px;
+    font-weight: medium;
+    line-height: 24px;
+    color: #434343;
+    background-color: #f2f3f9;
+    border: 0px solid #f2f3f9;
+    border-radius: 35px;
+  }
+
+  #title {
+    font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 18px;
+    display: block;
+    width: 100%;
+    min-height: 30px;
+    padding: 18px 25px;
+    font-weight: medium;
+    line-height: 24px;
+    color: #434343;
+    background-color: #f2f3f9;
+    border: 0px solid #f2f3f9;
+    border-radius: 35px;
+  }
+
+  #practice {
+    font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 18px;
+    display: block;
+    width: 100%;
+    min-height: 30px;
+    padding: 18px 25px;
+    font-weight: medium;
+    line-height: 24px;
+    color: #434343;
+    background-color: #f2f3f9;
+    border: 0px solid #f2f3f9;
+    border-radius: 35px;
+  }
+
+  #education {
+    font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 18px;
+    display: block;
+    width: 100%;
+    min-height: 30px;
+    padding: 18px 25px;
+    font-weight: medium;
+    line-height: 24px;
+    color: #434343;
+    background-color: #f2f3f9;
+    border: 0px solid #f2f3f9;
+    border-radius: 35px;
+    
+    
+  }
+
+  #street {
+    font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 18px;
+    display: block;
+    width: 100%;
+    min-height: 30px;
+    padding: 18px 25px;
+    font-weight: medium;
+    line-height: 24px;
+    color: #434343;
+    background-color: #f2f3f9;
+    border: 0px solid #f2f3f9;
+    border-radius: 35px;
+  }
+
+  #profession {
+    font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 18px;
+    display: block;
+    width: 100%;
+    min-height: 30px;
+    padding: 18px 25px;
+    font-weight: medium;
+    line-height: 24px;
+    color: #434343;
+    background-color: #f2f3f9;
+    border: 0px solid #f2f3f9;
+    border-radius: 35px;
+  }
+
+  #postcode {
+    font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 18px;
+    display: block;
+    width: 100%;
+    min-height: 30px;
+    padding: 18px 25px;
+    font-weight: medium;
+    line-height: 24px;
+    color: #434343;
+    background-color: #f2f3f9;
+    border: 0px solid #f2f3f9;
+    border-radius: 35px;
+  }
+
+  #first-name {
+    font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 18px;
+    display: block;
+    width: 100%;
+    min-height: 30px;
+    padding: 18px 25px;
+    font-weight: medium;
+    line-height: 24px;
+    color: #434343;
+    background-color: #f2f3f9;
+    border: 0px solid #f2f3f9;
+    border-radius: 35px;
+  }
+
+  #location {
+    font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 18px;
+    display: block;
+    width: 100%;
+    min-height: 30px;
+    padding: 18px 25px;
+    font-weight: medium;
+    line-height: 24px;
+    color: #434343;
+    background-color: #f2f3f9;
+    border: 0px solid #f2f3f9;
+    border-radius: 35px;
+  }
+
+  #surname {
+    font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 18px;
+    display: block;
+    width: 100%;
+    min-height: 30px;
+    padding: 18px 25px;
+    font-weight: medium;
+    line-height: 24px;
+    color: #434343;
+    background-color: #f2f3f9;
+    border: 0px solid #f2f3f9;
+    border-radius: 35px;
+  }
+
+  #phone {
+    font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 18px;
+    display: block;
+    width: 100%;
+    min-height: 30px;
+    padding: 18px 25px;
+    font-weight: medium;
+    line-height: 24px;
+    color: #434343;
+    background-color: #f2f3f9;
+    border: 0px solid #f2f3f9;
+    border-radius: 35px;
+  }
+
+
+  #dob {
+    font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 18px;
+    display: block;
+    width: 100%;
+    min-height: 30px;
+    padding: 18px 25px;
+    font-weight: medium;
+    line-height: 24px;
+    color: #434343;
+    background-color: #f2f3f9;
+    border: 0px solid #f2f3f9;
+    border-radius: 35px;
+  }
+
+  #email {
+    font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 18px;
+    display: block;
+    width: 100%;
+    min-height: 30px;
+    padding: 18px 25px;
+    font-weight: medium;
+    line-height: 24px;
+    color: #434343;
+    background-color: #f2f3f9;
+    border: 0px solid #f2f3f9;
+    border-radius: 35px;
+  }
+
+  #diploma-country {
+    font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 18px;
+    display: block;
+    width: 100%;
+    min-height: 30px;
+    padding: 18px 25px;
+    font-weight: medium;
+    line-height: 24px;
+    color: #434343;
+    background-color: #f2f3f9;
+    border: 0px solid #f2f3f9;
+    border-radius: 35px;
+  }
+
+  #private {
+    font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 18px;
+    display: block;
+    width: 100%;
+    min-height: 30px;
+    padding: 18px 25px;
+    font-weight: medium;
+    line-height: 24px;
+    color: #434343;
+    background-color: #f2f3f9;
+    border: 0px solid #f2f3f9;
+    border-radius: 35px;
+  }
+
+
+  #diploma-year {
+    font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 18px;
+    display: block;
+    width: 100%;
+    min-height: 30px;
+    padding: 18px 25px;
+    font-weight: medium;
+    line-height: 24px;
+    color: #434343;
+    background-color: #f2f3f9;
+    border: 0px solid #f2f3f9;
+    border-radius: 35px;
+  }
+
+  #private-zip {
+    font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 18px;
+    display: block;
+    width: 100%;
+    min-height: 30px;
+    padding: 18px 25px;
+    font-weight: medium;
+    line-height: 24px;
+    color: #434343;
+    background-color: #f2f3f9;
+    border: 0px solid #f2f3f9;
+    border-radius: 35px;
+  }
+
+  #gln {
+    font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 18px;
+    display: block;
+    width: 100%;
+    min-height: 30px;
+    padding: 18px 25px;
+    font-weight: medium;
+    line-height: 24px;
+    color: #434343;
+    background-color: #f2f3f9;
+    border: 0px solid #f2f3f9;
+    border-radius: 35px;
+  }
+
+  #private-location {
+    font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 18px;
+    display: block;
+    width: 100%;
+    min-height: 30px;
+    padding: 18px 25px;
+    font-weight: medium;
+    line-height: 24px;
+    color: #434343;
+    background-color: #f2f3f9;
+    border: 0px solid #f2f3f9;
+    border-radius: 35px;
+  }
+
+  #uid {
+    font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 18px;
+    display: block;
+    width: 100%;
+    min-height: 30px;
+    padding: 18px 25px;
+    font-weight: medium;
+    line-height: 24px;
+    color: #434343;
+    background-color: #f2f3f9;
+    border: 0px solid #f2f3f9;
+    border-radius: 35px;
+    margin: auto;
+  }
+
+  #cell-phone {
+    font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 18px;
+    display: block;
+    width: 100%;
+    min-height: 30px;
+    padding: 18px 25px;
+    font-weight: medium;
+    line-height: 24px;
+    color: #434343;
+    background-color: #f2f3f9;
+    border: 0px solid #f2f3f9;
+    border-radius: 35px;
+    margin: auto;
+  }
+
+  input:focus {
+    outline: none;
+  }
+
+  .box {
+    margin-left: -35px;
+  }
+
+  #check {
+    width: 20px;
+    height: 20px;
+    margin-left: 50px;
+    accent-color: #c60000;
+  }
+
+  a {
+    text-decoration: none;
+    color: #c60000;
+    font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 20px;
+    opacity: 0.85;
+  }
+
+  #check {
+    width: 20px;
+    height: 20px;
+    margin-left: 50px;
+    accent-color: #c60000;
+  }
+
+  .check {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-weight: light;
+    color: #9d9d9f;
+  }
+
+  .box {
+    display: inline-flex;
+  }
+
+  .saav {
+    text-decoration: none;
+    color: #c60000;
+    font-family: 'Lato', sans-serif;
+  }
+
+  .submit {   
+    width: 250px;
+    height: 60px;
+    border-radius: 30px;
+    background-color: #c60000;
+    border-color: #c60000;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    text-transform: uppercase; 
+    font-weight: 1000;  
+    font-size: 20px;
+    box-shadow: inset 0 0 0 0 red;
+    transition: ease-out 0.3s;
+    outline: none;
+}
+
+.submit:hover {
+    box-shadow: inset 300px 0 0 0 red;
+    cursor: pointer;
+    color: black;
+} 
+
+
